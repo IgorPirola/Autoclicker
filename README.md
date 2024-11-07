@@ -11,6 +11,7 @@
   <li>F9 para finalizar o código</li>
 </ul>
 
+<p>Está configurado para clicar a cada 0,05s aproximadamente</p>
 <p>Ele tem algumas messagebox de avisos criadas a partir do tkinter porém estão como comentários</p>
 
 # Descrição do MS
